@@ -68,6 +68,7 @@ python main.py
 ## 🖥️ Menu do Sistema
 
 =============== MENU ===============
+
 [d] Depositar
 
 [s] Sacar

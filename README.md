@@ -38,21 +38,24 @@ Projeto desenvolvido em Python, com foco em Programação Orientada a Objetos (P
 
 - Python 3.10+
 - Biblioteca padrão do Python:
- - abc
- - datetime
- - textwrap
+   - abc
+   - datetime
+   - textwrap
 
 ## 📂 Estrutura do Projeto
 
 📁 sistema-bancario-python
 │
+
 ├── main.py            # Arquivo principal do sistema
+
 ├── README.md          # Documentação do projeto
 
 
 💡 O projeto está estruturado de forma simples, porém preparado para futuras evoluções como banco de dados, API REST ou interface gráfica.
 
 ## ▶️ Como Executar o Projeto
+
 1️⃣ Clone o repositório
 git clone https://github.com/DiegoMarayo/sistema-bancario-python.git
 
@@ -72,6 +75,7 @@ python main.py
 [lc] Listar contas
 [nu] Novo usuário
 [q] Sair
+
 
 ## 📈 Possíveis Melhorias Futuras
 

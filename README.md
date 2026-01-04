@@ -5,13 +5,21 @@ Projeto desenvolvido em Python, com foco em Programação Orientada a Objetos (P
 ## 📌 Funcionalidades
 
 ✔️ Cadastro de clientes (Pessoa Física)
+
 ✔️ Validação de CPF
+
 ✔️ Criação de múltiplas contas por cliente
+
 ✔️ Depósitos e saques
+
 ✔️ Limite de saques por conta corrente
+
 ✔️ Histórico completo de transações
+
 ✔️ Extrato detalhado
+
 ✔️ Escolha de conta quando o cliente possui mais de uma
+
 ✔️ Controle de acesso (cliente só opera suas próprias contas)
 
 ## 🧠 Conceitos Aplicados
@@ -55,6 +63,7 @@ cd sistema-bancario-python
 python main.py
 
 ## 🖥️ Menu do Sistema
+
 =============== MENU ===============
 [d] Depositar
 [s] Sacar
